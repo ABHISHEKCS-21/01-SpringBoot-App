@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Application {
 	
-
+	git -b feature-11 repo URL;
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
 		
@@ -14,5 +14,10 @@ public class Application {
 
 		//I am changing code for master branch
 	}
+
+	public String App()
+		{
+		//Adding meathod by feature-11 branch;
+		}
 
 }
