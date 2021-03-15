@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Application {
 	List<string> list= new ArrayList();
 	git -b feature-11 repo URL;
+	int k=40;
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
 		
