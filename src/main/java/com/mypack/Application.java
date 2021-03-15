@@ -5,8 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Application {
+	int k=40;
 	List<string> list= new ArrayList();
 	git -b feature-11 repo URL;
+	
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
 		
