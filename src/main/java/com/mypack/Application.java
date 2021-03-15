@@ -8,7 +8,12 @@ public class Application {
 	int k=40;
 	List<string> list= new ArrayList();
 	git -b feature-11 repo URL;
+
 	
+
+	int k=40;
+	int l=50;
+
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
 		
